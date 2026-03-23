@@ -89,9 +89,16 @@ export default {
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+			'fade-in': 'fadeInUp 0.8s ease forwards',
+			'fade-in-slow': 'fadeInUp 1.2s ease forwards',
 			}
-		}
+		},
+		fontFamily: {
+			'cormorant': ['"Cormorant Garamond"', 'serif'],
+			'cormorant-sc': ['"Cormorant SC"', 'serif'],
+			'montserrat': ['Montserrat', 'sans-serif'],
+		},
 	},
 	plugins: [require("tailwindcss-animate")],
 } satisfies Config;
