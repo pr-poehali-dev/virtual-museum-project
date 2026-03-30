@@ -5,7 +5,7 @@ const HERO_IMG = "https://cdn.poehali.dev/projects/0449e838-efcb-4336-8bea-a1fd4
 const BUST_IMG = "https://cdn.poehali.dev/projects/0449e838-efcb-4336-8bea-a1fd4e430ffa/files/6f5d39f3-c09a-43c9-b3d1-dc5c58bd87a8.jpg";
 const CROWN_IMG = "https://cdn.poehali.dev/projects/0449e838-efcb-4336-8bea-a1fd4e430ffa/files/d6549bc4-d60f-4fd5-9165-52ac8f44ac8a.jpg";
 
-const SECTIONS = ["Главная", "История", "Экспозиции", "Экспонаты", "Виртуальный тур", "События"];
+const SECTIONS = ["Главная", "Экспозиции"];
 
 const EXHIBITS = [
   { id: 1, title: "Действующий макет циркулярной пилорамы", era: "Современность", collection: "Античность", img: "https://cdn.poehali.dev/projects/0449e838-efcb-4336-8bea-a1fd4e430ffa/bucket/69f11463-ce4c-4c74-ae6a-48bdcea0bd8d.jpg", desc: "Действующий макет циркулярной пилорамы, созданный студентами колледжа. Демонстрирует принцип работы деревообрабатывающего оборудования." },
