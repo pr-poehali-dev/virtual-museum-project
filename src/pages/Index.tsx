@@ -127,22 +127,7 @@ export default function Index() {
               </div>
             </div>
 
-            <div className="py-20 px-6" style={{ borderTop: '1px solid rgba(201,168,76,0.1)', borderBottom: '1px solid rgba(201,168,76,0.1)' }}>
-              <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-                {[
-                  { num: "5 000 000+", label: "Экспонатов" },
-                  { num: "47", label: "Залов" },
-                  { num: "176", label: "Лет истории" },
-                  { num: "12", label: "Коллекций" },
-                ].map((s, i) => (
-                  <div key={i}>
-                    <div style={{ fontFamily: '"Cormorant Garamond", serif', fontSize: '2.5rem', fontWeight: 300, color: 'var(--gold)', lineHeight: 1 }}>{s.num}</div>
-                    <div className="ornament-line my-3 mx-auto" style={{ width: '40px' }} />
-                    <div style={{ fontFamily: 'Montserrat, sans-serif', fontSize: '0.65rem', letterSpacing: '0.15em', color: 'rgba(232,201,122,0.5)', textTransform: 'uppercase' }}>{s.label}</div>
-                  </div>
-                ))}
-              </div>
-            </div>
+
 
             <div className="py-20 px-6 max-w-7xl mx-auto">
               <div className="text-center mb-12">
