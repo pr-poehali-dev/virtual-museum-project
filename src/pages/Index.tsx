@@ -58,8 +58,8 @@ export default function Index() {
               <Icon name="Building2" size={16} />
             </div>
             <div>
-              <div style={{ fontFamily: '"Cormorant SC", serif', color: 'var(--gold)', fontSize: '0.85rem', letterSpacing: '0.2em' }}>ВИРТУАЛЬНЫЙ</div>
-              <div style={{ fontFamily: '"Cormorant SC", serif', color: 'rgba(201,168,76,0.5)', fontSize: '0.65rem', letterSpacing: '0.25em' }}>МУЗЕЙ</div>
+              <div style={{ fontFamily: '"Cormorant SC", serif', color: 'var(--gold)', fontSize: '0.85rem', letterSpacing: '0.2em' }}>МУЗЕЙ</div>
+              <div style={{ fontFamily: '"Cormorant SC", serif', color: 'rgba(201,168,76,0.5)', fontSize: '0.65rem', letterSpacing: '0.25em' }}>ТОМСКОГО АГРАРНОГО КОЛЛЕДЖА</div>
             </div>
           </div>
 
@@ -109,7 +109,7 @@ export default function Index() {
                   ОСНОВАН В 1847 ГОДУ
                 </div>
                 <h1 className="fade-in-up fade-in-up-delay-2" style={{ fontFamily: '"Cormorant Garamond", serif', fontSize: 'clamp(3rem, 8vw, 6rem)', fontWeight: 300, lineHeight: 1.1, color: '#F0E4C2', marginBottom: '1.5rem' }}>
-                  Государственный<br /><em style={{ color: 'var(--gold)' }}>Исторический</em><br />Музей
+                  Музей<br /><em style={{ color: 'var(--gold)' }}>Томского</em><br />Аграрного Колледжа
                 </h1>
                 <p className="fade-in-up fade-in-up-delay-3" style={{ fontFamily: 'Montserrat, sans-serif', fontSize: '0.85rem', fontWeight: 300, letterSpacing: '0.05em', color: 'rgba(232,201,122,0.6)', maxWidth: '500px', margin: '0 auto 3rem', lineHeight: 1.8 }}>
                   Более 5 миллионов экспонатов, охватывающих тысячелетия истории человеческой цивилизации
@@ -532,8 +532,8 @@ export default function Index() {
             <div className="ornament-line mb-8" />
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
               <div>
-                <div style={{ fontFamily: '"Cormorant SC", serif', fontSize: '0.85rem', letterSpacing: '0.2em', color: 'var(--gold)', marginBottom: '1rem' }}>ВИРТУАЛЬНЫЙ МУЗЕЙ</div>
-                <p style={{ fontFamily: 'Montserrat, sans-serif', fontSize: '0.75rem', color: 'rgba(201,168,76,0.4)', lineHeight: 1.8 }}>Государственный исторический музей — хранитель тысячелетий истории человечества.</p>
+                <div style={{ fontFamily: '"Cormorant SC", serif', fontSize: '0.85rem', letterSpacing: '0.2em', color: 'var(--gold)', marginBottom: '1rem' }}>МУЗЕЙ ТОМСКОГО АГРАРНОГО КОЛЛЕДЖА</div>
+                <p style={{ fontFamily: 'Montserrat, sans-serif', fontSize: '0.75rem', color: 'rgba(201,168,76,0.4)', lineHeight: 1.8 }}>Музей Томского аграрного колледжа — хранитель истории и традиций учебного заведения.</p>
               </div>
               <div>
                 <div style={{ fontFamily: '"Cormorant SC", serif', fontSize: '0.65rem', letterSpacing: '0.2em', color: 'var(--gold)', marginBottom: '1rem' }}>НАВИГАЦИЯ</div>
@@ -566,7 +566,7 @@ export default function Index() {
             </div>
             <div className="ornament-line mb-4" />
             <div className="text-center" style={{ fontFamily: 'Montserrat, sans-serif', fontSize: '0.62rem', letterSpacing: '0.15em', color: 'rgba(201,168,76,0.2)' }}>
-              © 2026 ГОСУДАРСТВЕННЫЙ ИСТОРИЧЕСКИЙ МУЗЕЙ · ВСЕ ПРАВА ЗАЩИЩЕНЫ
+              © 2026 МУЗЕЙ ТОМСКОГО АГРАРНОГО КОЛЛЕДЖА · ВСЕ ПРАВА ЗАЩИЩЕНЫ
             </div>
           </div>
         </footer>
