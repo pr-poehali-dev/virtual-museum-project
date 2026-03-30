@@ -109,9 +109,7 @@ export default function Index() {
                 <h1 className="fade-in-up fade-in-up-delay-2" style={{ fontFamily: '"Cormorant Garamond", serif', fontSize: 'clamp(3rem, 8vw, 6rem)', fontWeight: 300, lineHeight: 1.1, color: '#F0E4C2', marginBottom: '1.5rem' }}>
                   Музей<br /><em style={{ color: 'var(--gold)' }}>Томского</em><br />Аграрного Колледжа
                 </h1>
-                <p className="fade-in-up fade-in-up-delay-3" style={{ fontFamily: 'Montserrat, sans-serif', fontSize: '0.85rem', fontWeight: 300, letterSpacing: '0.05em', color: 'rgba(232,201,122,0.6)', maxWidth: '500px', margin: '0 auto 3rem', lineHeight: 1.8 }}>
-                  Более 5 миллионов экспонатов, охватывающих тысячелетия истории человеческой цивилизации
-                </p>
+
                 <div className="fade-in-up fade-in-up-delay-4 flex items-center justify-center gap-4 flex-wrap">
                   <button className="btn-gold px-8 py-3" onClick={() => setActiveSection("Экспонаты")}>
                     Исследовать коллекцию
