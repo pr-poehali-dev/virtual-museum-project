@@ -105,9 +105,7 @@ export default function Index() {
 
               <div className="relative z-10 text-center max-w-4xl px-6">
                 <div className="ornament-line mb-8 mx-auto" style={{ width: '120px' }} />
-                <div className="fade-in-up fade-in-up-delay-1" style={{ fontFamily: '"Cormorant SC", serif', fontSize: '0.7rem', letterSpacing: '0.4em', color: 'var(--gold)', marginBottom: '1.5rem' }}>
-                  ОСНОВАН В 1847 ГОДУ
-                </div>
+
                 <h1 className="fade-in-up fade-in-up-delay-2" style={{ fontFamily: '"Cormorant Garamond", serif', fontSize: 'clamp(3rem, 8vw, 6rem)', fontWeight: 300, lineHeight: 1.1, color: '#F0E4C2', marginBottom: '1.5rem' }}>
                   Музей<br /><em style={{ color: 'var(--gold)' }}>Томского</em><br />Аграрного Колледжа
                 </h1>
